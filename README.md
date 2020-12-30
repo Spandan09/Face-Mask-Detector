@@ -11,7 +11,7 @@ That being said, our dataset has 3 categories of people:
 - not wearing mask
 - wearing mask but in an incorrect manner
 
-Each category has close to 1000 images. Obviously it is not possible to download or web-scrap this many images. Hence **_data augmentation_** technique has been applied on 80-100 images to increase the volume of our dataset. <br/> <br/>
+Each category has close to 600-700 images. Obviously it is not possible to download or web-scrap this many images. Hence **_data augmentation_** technique has been applied on 80-100 images to increase the volume of our dataset. <br/> <br/>
 Since the size of the dataset is quite big (~ 200 mb) hence I couldn't commit the dataset here but you can download it from my [kaggle](https://www.kaggle.com/spandanpatnaik09/face-mask-detectormask-not-mask-incorrect-mask) profile. <br/>
 (P.S: If you really liked the dataset don't forget to give a thumbs up. Creating dataset is quite a task)
 
